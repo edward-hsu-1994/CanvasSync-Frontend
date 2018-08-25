@@ -1,0 +1,8 @@
+{
+  "/sync": {
+    "target": "http://localhost:54526/",
+    "secure": false,
+    "ws": true,
+    "changeOrigin": true
+  }
+}

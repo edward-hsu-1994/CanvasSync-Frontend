@@ -1,0 +1,15 @@
+:host {
+  width: 100%;
+  height: 100%;
+}
+canvas {
+  display: block;
+}
+.controls {
+  height: 25px;
+  background: #aaaaaa;
+}
+
+.controls > * {
+  height: 100%;
+}
